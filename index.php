@@ -762,13 +762,13 @@
                               <br>
                               <div class="row2">
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/M0013_7_masjid raya bkt.jpg" style="width:100%" onclick="currentSlide(1)">
+                                  <img class="demo cursor" src="foto/M0013_7_masjid raya bkt.JPG" style="width:100%" onclick="currentSlide(1)">
                                 </div>
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/M0001_DARUSSALAM GURUN PANJANG.jpg" style="width:100%" onclick="currentSlide(2)">
+                                  <img class="demo cursor" src="foto/M0001_DARUSSALAM GURUN PANJANG.JPG" style="width:100%" onclick="currentSlide(2)">
                                 </div>
                                 <div class="column">
-                                  <img class="demo cursor" src="foto/M0009_RAUDATUL JANNAH.jpg" style="width:100%" onclick="currentSlide(3)">
+                                  <img class="demo cursor" src="foto/M0009_RAUDATUL JANNAH.JPG" style="width:100%" onclick="currentSlide(3)">
                                 </div>
                                 <div class="column">
                                   <img class="demo cursor" src="foto/M0012_NURUL HAQ.jpg" style="width:100%" onclick="currentSlide(4)">
